@@ -1,0 +1,17 @@
+{
+  "name": "client2",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "socket.io-client": "^4.4.1",
+    "vue": "^3.0.4",
+    "vue-socket.io": "^3.0.10"
+  },
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.0.4",
+    "vite": "^1.0.0-rc.13"
+  }
+}
